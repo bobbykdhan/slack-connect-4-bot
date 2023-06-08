@@ -6,7 +6,7 @@
     "start": "node src/main.js",
     "test": "mocha --compilers js:mocha-traceur --recursive"
   },
-  "repository": "wgpsutherland/slack-connect-4-bot",
+  "repository": "bobbykdhan/slack-connect-4-bot",
   "keywords": [
     "slack",
     "connect 4",
